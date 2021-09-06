@@ -1,7 +1,7 @@
 ---
 title: 'Stationary RNG'
 description: 'RNG stationary Pokemon in Diamond, Pearl, and Platinum'
-slug: 'emulator-dppt-stationary'
+slug: 'dppt-stationary'
 subCategory: 'Emulator'
 ---
 
