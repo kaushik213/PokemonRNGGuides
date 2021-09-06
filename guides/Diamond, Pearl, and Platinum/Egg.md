@@ -2,7 +2,7 @@
 title: 'c) Egg RNG Guide'
 description: 'How to RNG eggs from the daycare'
 slug: 'dppt-egg'
-subCategory: 'Emulator'
+subCategory: 'RNG Knowledge'
 ---
 
 quite different from HGSS even if the idea is the same
